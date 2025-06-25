@@ -1,0 +1,4 @@
+First line of text
+Second line with numbers: 123
+Third line with special characters: @#$%
+Final line of this example
